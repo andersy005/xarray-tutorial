@@ -1,0 +1,15 @@
+name: xarray-tutorial
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.9
+  - cfgrib
+  - h5netcdf
+  - jupyterlab-system-monitor
+  - jupyterlab>=3
+  - matplotlib
+  - netcdf4
+  - nodejs
+  - pre-commit
+  - xarray>=0.18.2
