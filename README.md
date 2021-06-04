@@ -35,7 +35,7 @@ packages via:
 
 ```terminal
 cd xarray-tutorial
-conda env create --file binder/environment.yml
+conda env update --file binder/environment.yml
 ```
 
 This will create a new conda environment named "xarray-tutorial".
