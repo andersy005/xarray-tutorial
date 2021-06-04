@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
-  - python=3.9
   - cfgrib
   - h5netcdf
   - jupyterlab-system-monitor
@@ -12,4 +11,8 @@ dependencies:
   - netcdf4
   - nodejs
   - pre-commit
+  - pydap
+  - python=3.9
+  - watermark
   - xarray>=0.18.2
+  - hvplot
