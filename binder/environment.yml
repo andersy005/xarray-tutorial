@@ -3,17 +3,23 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
+  - cartopy
   - cfgrib
+  - cftime
+  - datashader
   - h5netcdf
+  - hvplot
+  - ipywidgets
   - jupyterlab-system-monitor
   - jupyterlab>=3
   - matplotlib
+  - nc-time-axis
   - netcdf4
   - nodejs
+  - numba
   - pre-commit
   - pydap
   - python=3.9
+  - scipy
   - watermark
   - xarray>=0.18.2
-  - hvplot
-  - scipy
