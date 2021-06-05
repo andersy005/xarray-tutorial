@@ -5,8 +5,7 @@ channels:
 dependencies:
   - cartopy
   - cfgrib
-  - cftime
-  - datashader
+  - cftime < 1.5
   - h5netcdf
   - hvplot
   - ipywidgets
@@ -16,7 +15,6 @@ dependencies:
   - nc-time-axis
   - netcdf4
   - nodejs
-  - numba
   - pre-commit
   - pydap
   - python=3.9
