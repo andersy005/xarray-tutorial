@@ -6,6 +6,9 @@ dependencies:
   - cartopy
   - cfgrib
   - cftime < 1.5
+  - dask
+  - dask-labextension
+  - distributed
   - h5netcdf
   - hvplot
   - ipywidgets
@@ -15,8 +18,10 @@ dependencies:
   - nc-time-axis
   - netcdf4
   - nodejs
+  - pip
   - pre-commit
   - pydap
+  - python-graphviz
   - python=3.9
   - scipy
   - watermark
