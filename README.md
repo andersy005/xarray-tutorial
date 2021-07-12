@@ -48,7 +48,16 @@ Next, activate the environment:
 conda activate xarray-tutorial
 ```
 
-### 5. Launch JupyterLab
+### 5. Download sample datasets
+
+To download sample datasets, run the `00-download-data.ipynb` notebook:
+
+```bash
+cd notebooks/
+nbterm --run 00-download-data.ipynb
+```
+
+### 6. Launch JupyterLab
 
 Finally, launch JupyterLab with:
 

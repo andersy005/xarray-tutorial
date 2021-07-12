@@ -26,4 +26,4 @@ dependencies:
   - scipy
   - watermark
   - xarray>=0.18.2
-  - importnb
+  - nbterm
