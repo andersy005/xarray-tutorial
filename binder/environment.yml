@@ -15,6 +15,7 @@ dependencies:
   - jupyterlab-system-monitor
   - jupyterlab>=3
   - matplotlib
+  - nbterm
   - nc-time-axis
   - netcdf4
   - nodejs
@@ -25,5 +26,4 @@ dependencies:
   - python=3.9
   - scipy
   - watermark
-  - xarray>=0.18.2
-  - nbterm
+  - xarray>=2022.3.0
