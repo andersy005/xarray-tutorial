@@ -26,7 +26,7 @@ git clone https://github.com/andersy005/xarray-tutorial
 
 ### 2. Download conda (if you haven't already)
 
-If you do not already have the conda package manager installed, please follow the instructions [here](https://docs.conda.io/en/latest/miniconda.html).
+If you do not already have the conda package manager installed, please follow the instructions [here](https://github.com/conda-forge/miniforge#install).
 
 ### 3. Create a conda environment
 
